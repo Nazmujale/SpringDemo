@@ -10,6 +10,7 @@ public class SpringDemoApplication {
 
         SpringApplication.run(SpringDemoApplication.class, args);
         System.out.println("A SpringBoot Demonstration");
+        System.out.println("Successful upload to gitHub - Nazmujale");
     }
 
 }
